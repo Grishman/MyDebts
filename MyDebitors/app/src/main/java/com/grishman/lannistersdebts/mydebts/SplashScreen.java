@@ -32,7 +32,7 @@ public class SplashScreen extends Activity {
                 finish();
             }
         }, SPLASH_TIME_OUT);
-        lannisterVoice =MediaPlayer.create(getApplicationContext(), R.raw.est);
+        lannisterVoice =MediaPlayer.create(getApplicationContext(), R.raw.quote);
         lannisterVoice.setLooping(false);
         lannisterVoice.start();
     }
