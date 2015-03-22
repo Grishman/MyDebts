@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">MyDebts</string>
-    <string name="hello_world">Hello world!!!!!</string>
+    <string name="lann_debts">A Lannister always pays his debts.</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
 
